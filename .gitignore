@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/TerraFrontier/[Ll]ibrary/
-/TerraFrontier/[Tt]emp/
-/TerraFrontier/[Oo]bj/
-/TerraFrontier/[Bb]uild/
-/TerraFrontier/[Bb]uilds/
-/TerraFrontier/[Ll]ogs/
-/TerraFrontier/[Uu]ser[Ss]ettings/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
