@@ -1,3 +1,3 @@
 # My Assets Museum
 
-Here is the compilation of the assets made by me
+Here is the compilation of the unity assets made by me
